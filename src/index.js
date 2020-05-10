@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom'
 const App = () => {
   const now = new Date()
   const a = 10
-  const b = 20
+  const b = 30
 
   return (
   <div>
